@@ -1,0 +1,2 @@
+date<GB:>Fri Mar 30 19:40:11 2007<GB_FIELD_END>
+__ENTRY__
