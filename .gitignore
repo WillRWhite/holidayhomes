@@ -1,2 +1,11 @@
-_vti_cnf/*
-_vti_pvt/*
+_derived/
+_fpclass/
+_overlay/
+_private/
+_themes/
+_vti_cnf/
+_vti_pvt/
+_zisp_/
+docs/_vti_cnf/
+images/_vti_cnf/
+Templates/
