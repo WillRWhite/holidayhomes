@@ -26,14 +26,14 @@ git clone https://github.com/WillRWhite/holidayhomes.git
 
 See: https://help.github.com/articles/fetching-a-remote/
 
-git status
-\# Synchronise chahges only
+git status  
+\# Synchronise chahges only  
 git fetch origin  
-git status
-\# The following two commands are only required if you have made changes to the local repo
+git status  
+\# The following two commands are only required if you have made changes to the local repo  
 \# git reset --hard origin/master    
 \# git clean -f -d  
-\# now if required merge the changes
-git merge origin\master
-\# The following commands fetches and merges
+\# now if required merge the changes  
+git merge origin\master  
+\# The following commands fetches and merges  
 git pull  
