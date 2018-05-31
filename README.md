@@ -18,3 +18,8 @@ git push -u origin master
 git clone https://github.com/WillRWhite/holidayhomes.git
 
 ## Synchronising Local Repo with this Remote Repo
+
+// git fetch origin
+// git reset --hard origin/master
+// git clean -f -d
+// git pull
