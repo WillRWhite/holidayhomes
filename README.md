@@ -1,7 +1,10 @@
 # holidayhomes
 
 This is the El Alamo and La Refoulerie HolidayHomes WEB site.    
-Requires Microsoft Front Page.  
+Requires Microsoft Front Page.
+
+### To Do
+Move WEB site files to a separate directory called "HolidayHomesWebFiles"
 
 ### Git Stuff
 
@@ -26,7 +29,7 @@ git clone https://github.com/WillRWhite/holidayhomes.git
 #### Synchronising Local Repo with this Remote Repo
 
 git status  
-\# Synchronise chahges only  
+\# Synchronise changes only  
 git fetch origin  
 git status  
 \# The following two commands are only required if you have made changes to the local repo  
@@ -49,5 +52,3 @@ https://stackoverflow.com/questions/17712468/what-is-the-difference-between-git-
 #### Markdown stuff
 https://guides.github.com/features/mastering-markdown  
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
-
-
