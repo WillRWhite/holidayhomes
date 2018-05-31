@@ -1,16 +1,17 @@
 # holidayhomes
 
-See markdown stuff
-https://guides.github.com/features/mastering-markdown/
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+This is the El Alamo and La Refoulerie HolidayHomes WEB site.    
+Requires Microsoft Front Page.  
 
-#### Configure Local Repo
+###Git Stuff
+
+####Configure Local Repo
 
 git init  
 git add .  
 git commit -m "First commit"  
 
-#### Push Local Repo to this Remote Repo
+####Push Local Repo to this Remote Repo
 
 git remote add origin https://github.com/WillRWhite/holidayhomes.git  
 
@@ -18,13 +19,11 @@ git remote add origin https://github.com/WillRWhite/holidayhomes.git
 git remote -v  
 git push -u origin master  
 
-#### Clone
+####Clone
 
 git clone https://github.com/WillRWhite/holidayhomes.git  
 
-#### Synchronising Local Repo with this Remote Repo
-
-See: https://help.github.com/articles/fetching-a-remote/
+####Synchronising Local Repo with this Remote Repo
 
 git status  
 \# Synchronise chahges only  
@@ -37,3 +36,18 @@ git status
 git merge origin\master  
 \# The following commands fetches and merges  
 git pull  
+
+###Other Useful Resources
+
+####Interacting with a remore Repo
+
+https://help.github.com/articles/fetching-a-remote/  
+https://stackoverflow.com/questions/17712468/what-is-the-difference-between-git-remote-update-git-fetch-and-git-pull  
+
+###Other Notes
+
+####Markdown stuff
+https://guides.github.com/features/mastering-markdown  
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
+
+
