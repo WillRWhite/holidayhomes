@@ -2,6 +2,7 @@
 
 This is the El Alamo and La Refoulerie HolidayHomes WEB site.    
 Requires Microsoft Front Page.
+In Front Page the site is the directory containing "index.html", currently the project directory.
 
 ### To Do
 Move WEB site files to a separate directory called "HolidayHomesWebFiles"
@@ -19,7 +20,7 @@ git commit -m "First commit"
 git remote add origin https://github.com/WillRWhite/holidayhomes.git  
 
 \# Verifies the new remote URL  
-git remote -v  
+git remote -v
 git push -u origin master  
 
 #### Clone
@@ -52,3 +53,7 @@ https://stackoverflow.com/questions/17712468/what-is-the-difference-between-git-
 #### Markdown stuff
 https://guides.github.com/features/mastering-markdown  
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
+
+#### GitHub / Atom Integration
+
+https://github.atom.io/
