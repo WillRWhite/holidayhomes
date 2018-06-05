@@ -1,5 +1,5 @@
 3.0.0.507
-1114
+1118
 1085,for_sale.htm,0,For Sale,0,1181295432,1
 vti_globalpage:BW|true
 1107,joiningdocs.htm,0,Joinnig Docs,0,1433170610,1
@@ -58,6 +58,9 @@ vti_navsequence:BW|true
 1109,sid:1109,0,Contact Us,0,1525957231,2
 vti_globalpage:BW|true
 vti_navsequence:BW|true
+1114,sid:1114,0,New Link Bar 2,0,1528187843,2
+vti_globalpage:BW|true
+vti_navsequence:BW|true
 1001,france.htm,0,France,1000,1167844079,0
 1002,spain.htm,0,Spain,1000,1167844079,0
 1011,http://www.availcheck.com/cgi-bin/calendar.cgi?propid=1400,1,Availability,1009,1153758009,0
@@ -92,6 +95,8 @@ vti_navsequence:BW|true
 1112,http://www.taxicalpe.es/gb/,1,Local Taxi,1101,1527768980,0
 1113,http://www.autobusesifach.net/index.php/en/timetable,1,Local Bus,1101,1527769019,0
 1111,contact_france.htm,0,Contact Us,1109,1525957315,0
+1117,http://www.alicantetaxitransfers.com/,1,Taxi Transfers,1114,1528188211,0
+1116,http://www.beniconnect.com,1,Beniconnect,1114,1528187941,0
 1014,france_details.htm,0,Details,1001,1154461470,0
 1015,france_amenities.htm,0,Amenities,1001,1155222711,0
 1004,france_picture_gallery_top.htm,0,Picture Gallery,1001,1155407611,0
